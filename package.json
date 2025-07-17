@@ -10,16 +10,16 @@
     "preview": "rspeedy preview"
   },
   "dependencies": {
-    "@lynx-js/react": "^0.106.3"
+    "@lynx-js/react": "^0.106.5"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@lynx-js/qrcode-rsbuild-plugin": "^0.3.5",
-    "@lynx-js/react-rsbuild-plugin": "^0.9.5",
-    "@lynx-js/rspeedy": "^0.9.0",
-    "@lynx-js/types": "^3.2.0",
-    "@types/react": "^18.3.20",
-    "typescript": "~5.8.2"
+    "@lynx-js/qrcode-rsbuild-plugin": "^0.3.6",
+    "@lynx-js/react-rsbuild-plugin": "^0.9.10",
+    "@lynx-js/rspeedy": "^0.9.11",
+    "@lynx-js/types": "^3.3.0",
+    "@types/react": "^18.3.23",
+    "typescript": "~5.8.3"
   },
   "engines": {
     "node": ">=18"
